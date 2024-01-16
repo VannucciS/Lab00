@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Vannucci_Android_Labs</string>
     <string name="hello_message">Hello world!</string>
+    <string name="first_message">Hello world!</string>
     <string name="button_message">I\'m a button</string>
+    <string name="button_message2">Next page</string>
 </resources>
